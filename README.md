@@ -22,7 +22,7 @@
 
 I build autonomous AI systems — the kind that run in production, not just demos.
 
-At **UST Global**, I work on:
+Currently I am working on:
 - A **multi-agent LLM pipeline** that scores 1,400+ cloud security policies across AWS, Azure, GCP, and Kubernetes against MITRE ATT&CK and CAPEC, using 8 specialized agents orchestrated with LangChain and Azure OpenAI
 - An **Autonomous Reconnaissance Agent** (LangGraph + Playwright) that does end-to-end attack surface assessments with zero human intervention — integrating 15+ security tools and generating typed knowledge graphs
 - A **Computer Vision system** (YOLO) for real-time object detection, face tracking, and eye-movement analysis on both live and recorded video
