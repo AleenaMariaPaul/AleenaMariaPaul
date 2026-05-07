@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleena-maria-paul)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleenamariapaul2002@gmail.com)
-[![Location](https://img.shields.io/badge/Trivandrum,_India-222222?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Kottayam,Kerala,India-222222?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
@@ -38,8 +38,7 @@ CORE        = ["Python", "LangChain", "LangGraph", "Azure OpenAI"]
 AGENTIC     = ["Multi-Agent Orchestration", "MCP Protocol", "FastMCP", "Langfuse"]
 SECURITY    = ["MITRE ATT&CK", "CAPEC", "Nmap", "Nuclei", "Playwright"]
 ML_CV       = ["YOLO", "Computer Vision", "Deep Learning", "Scikit-learn"]
-INFRA       = ["AWS (S3, boto3)", "Asyncio", "Pydantic", "REST APIs", "Git"]
-WEB         = ["React", "Django", "Vite"]
+INFRA       = ["Asyncio", "Pydantic", "REST APIs", "Git"]
 ```
 
 ---
@@ -78,7 +77,6 @@ Hybrid deep learning for lung disease classification from chest X-rays.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
